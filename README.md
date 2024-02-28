@@ -1,3 +1,25 @@
+# Este es un encabezado de nivel 1
+## Este es un encabezado de nivel 2
+### Este es un encabezado de nivel 3
+![Texto alternativo](URL_de_la_imagen)
+
+```python
+def saludar():
+    print("Hola, mundo!")
+
+Puedes cambiar "python" por el lenguaje de programación que estés utilizando.
+
+### 4. Crear una lista de tareas:
+
+```markdown
+- [x] Tarea completada
+- [ ] Tarea pendiente
+- [ ] Otra tarea pendiente
+
+
+
+
+
 <header>
 
 <!--
